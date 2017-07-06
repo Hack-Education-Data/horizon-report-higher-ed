@@ -1,0 +1,24 @@
+---
+layout: default
+title: 2016 Horizon Report for Higher Ed
+---
+
+<h2>The 2016 Horizon Report</h2>
+
+<!-- Timeline -->
+{% assign timelines = site.data.2016 %}
+{% assign timelines = timelines | sort:"Timeline" %}
+
+<!-- Document -->
+
+{% for timeline in timelines %}
+
+<p><strong>{{ timeline.Timeline }}</strong>: 
+
+<p>{{ timeline.Trend }}
+
+<hr >
+{% endfor %}
+
+
+

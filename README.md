@@ -1,3 +1,1 @@
-## Horizon Report
-
-Higher Education data
+## Horizon Report Higher Ed
