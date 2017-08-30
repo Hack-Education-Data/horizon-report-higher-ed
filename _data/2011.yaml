@@ -1,12 +1,24 @@
 - Timeline: 1 Year or Less
   Trend: Electronic Books
+  Image: 'https://s3.amazonaws.com/hackedu/e-book.png'
+  Notes: ''
 - Timeline: 1 Year or Less
   Trend: Mobiles
+  Image: 'https://s3.amazonaws.com/hackedu/byod.png'
+  Notes: ''
 - Timeline: 2 to 3 Years
   Trend: Game-Based Learning
+  Image: 'https://s3.amazonaws.com/hackedu/game-based-learning.png'
+  Notes: ''
 - Timeline: 2 to 3 Years
   Trend: Augmented Reality
+  Image: 'https://s3.amazonaws.com/hackedu/nmc_vr.png'
+  Notes: ''
 - Timeline: 4 to 5 Years
   Trend: Gesture-Based Computing
+  Image: 'https://s3.amazonaws.com/hackedu/gesture_based.png'
+  Notes: ''
 - Timeline: 4 to 5 Years
   Trend: Learning Analytics
+  Image: 'https://s3.amazonaws.com/hackedu/nmc_analytics_adaptive.png'
+  Notes: ''
