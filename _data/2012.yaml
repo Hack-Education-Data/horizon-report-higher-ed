@@ -1,12 +1,24 @@
 - Timeline: 1 Year or Less
   Trend: Mobile Apps
+  Image: 'https://s3.amazonaws.com/hackedu/byod.png'
+  Notes: ''
 - Timeline: 1 Year or Less
   Trend: Tablet Computing
+  Image: 'https://s3.amazonaws.com/hackedu/byod.png'
+  Notes: ''
 - Timeline: 2 to 3 Years
   Trend: Game-Based Learning
+  Image: 'https://s3.amazonaws.com/hackedu/game-based-learning.png'
+  Notes: ''
 - Timeline: 2 to 3 Years
   Trend: Learning Analytics
+  Image: 'https://s3.amazonaws.com/hackedu/nmc_analytics_adaptive.png'
+  Notes: ''
 - Timeline: 4 to 5 Years
   Trend: Gesture-Based Computing
+  Image: 'https://s3.amazonaws.com/hackedu/gesture_based.png'
+  Notes: ''
 - Timeline: 4 to 5 Years
   Trend: Internet of Things
+  Image: 'https://s3.amazonaws.com/hackedu/iot.png'
+  Notes: ''
