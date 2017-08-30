@@ -1,12 +1,24 @@
 - Timeline: 1 Year or Less
   Trend: Uniquitous Wireless
+  Image: 'https://s3.amazonaws.com/hackedu/wireless.png'
+  Notes: ''
 - Timeline: 1 Year or Less
   Trend: Extended Learning
+  Image: 'https://s3.amazonaws.com/hackedu/extended_learning.png'
+  Notes: ''
 - Timeline: 2 to 3 Years
   Trend: Intelligent Searching
+  Image: 'https://s3.amazonaws.com/hackedu/searching.png'
+  Notes: ''
 - Timeline: 2 to 3 Years
   Trend: Educational Gaming
+  Image: 'https://s3.amazonaws.com/hackedu/game-based-learning.png'
+  Notes: ''
 - Timeline: 4 to 5 Years
   Trend: Social Networks and Knowledge Webs
+  Image: 'https://s3.amazonaws.com/hackedu/social_networking.png'
+  Notes: ''
 - Timeline: 4 to 5 Years
   Trend: Context-Aware Computing and Augmented Reality
+  Image: 'https://s3.amazonaws.com/hackedu/context_aware_environments.png'
+  Notes: ''
