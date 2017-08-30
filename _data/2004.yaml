@@ -1,12 +1,24 @@
 - Timeline: 1 Year or Less
   Trend: Learning Objects
+  Image: 'https://s3.amazonaws.com/hackedu/object.png'
+  Notes: ''
 - Timeline: 1 Year or Less
   Trend: Scalable Vector Graphics
+  Image: 'https://s3.amazonaws.com/hackedu/nmc_svg.png'
+  Notes: ''
 - Timeline: 2 to 3 Years
   Trend: Rapid Prototyping
+  Image: 'https://s3.amazonaws.com/hackedu/prototype.png'
+  Notes: ''
 - Timeline: 2 to 3 Years
   Trend: Multimodal Interfaces
+  Image: 'https://s3.amazonaws.com/hackedu/nmc_multimodal.png'
+  Notes: ''
 - Timeline: 4 to 5 Years
   Trend: Knowledge Webs
+  Image: 'https://s3.amazonaws.com/hackedu/nmc_knowledge.png'
+  Notes: ''
 - Timeline: 4 to 5 Years
   Trend: Context-Aware Computing
+  Image: 'https://s3.amazonaws.com/hackedu/context_aware_environments.png'
+  Notes: ''
